@@ -156,6 +156,10 @@
 		{
 			"Name": "StageMonitoring",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
 		}
 	]
 }
