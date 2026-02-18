@@ -160,6 +160,10 @@
 		{
 			"Name": "LiveLinkControlRig",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
